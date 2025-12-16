@@ -2,15 +2,15 @@
 
 A simple and clean login page created using HTML and CSS.
 
-## 🔗 Live Demo
+##  Live Demo
 https://shrutideveloper18.github.io/login-page-html-css/
 
-## 📚 Features
+## Features
 - Centered login card
 - Username & password fields
 - Forgot password link
 - Styled login button
 
-## 🛠 Technologies Used
+##  Technologies Used
 - HTML
 - CSS
