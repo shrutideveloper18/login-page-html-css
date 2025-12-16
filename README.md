@@ -3,7 +3,7 @@
 A simple and clean login page created using HTML and CSS.
 
 ## 🔗 Live Demo
-https://shruti.developer18.github.io/login-page-html-css/
+https://shrutideveloper18.github.io/login-page-html-css/
 
 ## 📚 Features
 - Centered login card
