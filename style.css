@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    background-image: url(backgorunf.png);
+}
+
+div {
+    margin: 200px auto;
+    width: 350px;
+    padding: 20px;
+    border: 2px solid black;
+    background-color: white;
+    border-radius: 6px;
+}
+
+#username {
+    margin-bottom: 15px;
+}
+
+#password {
+    margin-bottom: 15px;
+}
+
+div botton {
+    width: 50%;
+    padding: 5px;
+    background-color: #4CAF50;
+    /* green */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    display: block;
+    margin: 1px auto;
+    text-align: center;
+}
+
+.forgot-password {
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+.forgot-password a {
+    font-size: 14px;
+    color: #0077cc;
+    text-decoration: none;
+}
+
+.forgot-password a:hover {
+    text-decoration: underline;
+}
